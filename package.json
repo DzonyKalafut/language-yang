@@ -2,7 +2,7 @@
   "name": "language-yang",
   "version": "0.1.0",
   "description": "Syntax highlighting for YANG modeling language",
-  "repository": "https://github.com/atom/language-yang",
+  "repository": "https://github.com/DzonyKalafut/language-yang",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
